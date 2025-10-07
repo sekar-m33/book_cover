@@ -29,7 +29,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 # PROGRAM:
-'''
+```
 book.html
 
 <!DOCTYPE html>
@@ -156,7 +156,7 @@ book.html
   </div>
 </body>
 </html>
-'''
+```
 
 # OUTPUT:
 
